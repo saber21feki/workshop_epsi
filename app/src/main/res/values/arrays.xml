@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contrat">contrat
+    <item name="voyage">Voyage</item>
+    <item  name="ToutRisque">Tout Risque</item>
+    <item  name="Rugby">Rugby</item>
+    </string-array>
+
+</resources>
